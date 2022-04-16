@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.container {
+  background-color: #07080c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.speedo-container {
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+  color: #ffffff;
+}
+.description {
+  color: #ffffff;
+}
+.speedometer-image {
+  height: 300px;
+  width: 350px;
+}
+.accelerate-btn {
+  background-color: #0b69ff;
+  color: #ffffff;
+  padding: 3px;
+}
+.break-btn {
+  background-color: transparent;
+  border: #94a3b8 2px solid;
+  padding: 3px;
+}
